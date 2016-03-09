@@ -1,0 +1,12 @@
+//textpad config
+
+//Font
+Font=Fixedsys
+Fontsize=10
+Bold=1
+Italic=0
+Color=0
+Underline=0
+StrikeOut=0
+
+Script=Script\ycfg.ysc
